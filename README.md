@@ -1,6 +1,6 @@
 # DenSecure @ GitHub
 
-![DenSecure Logo](/assets/densecure.png)
+![DenSecure Logo](/assets/densecure.jpg)
 
 ---
 
